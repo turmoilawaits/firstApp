@@ -1,0 +1,2 @@
+INFO:root:got inside try block
+CRITICAL:root:integer division or modulo by zero
